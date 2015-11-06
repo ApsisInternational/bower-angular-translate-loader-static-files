@@ -18,7 +18,5 @@
     "url": "https://github.com/angular-translate/angular-translate/issues"
   },
   "homepage": "https://angular-translate.github.io",
-  "dependencies": {
-    "angular-translate": "~2.8.1"
-  }
+  "dependencies": {}
 }
