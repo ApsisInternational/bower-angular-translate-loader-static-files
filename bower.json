@@ -6,7 +6,5 @@
   "ignore": [],
   "author": "Pascal Precht",
   "license": "MIT",
-  "dependencies": {
-    "angular-translate": "~2.8.1"
-  }
+  "dependencies": {}
 }
